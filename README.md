@@ -1,7 +1,7 @@
 # Geolocation Distance Calculator - Frontend
 
 
-![Alt text](Screenshot from 2025-02-05 22-13-55.png)
+![Alt text](https://github.com/thinkphp/next-geolocation/blob/main/Screenshot%20from%202025-02-05%2022-13-55.png?raw=true)
 
 
 This is the frontend for the Geolocation Distance Calculator app, built with Next.js and React. The app allows users to enter two locations and calculates the distance between them, displaying the result on a map.
