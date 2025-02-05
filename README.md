@@ -1,6 +1,3 @@
-# Geolocation Distance Calculator - Frontend
-
-
 ![Alt text](https://github.com/thinkphp/next-geolocation/blob/main/Screenshot%20from%202025-02-05%2022-13-55.png?raw=true)
 
 
