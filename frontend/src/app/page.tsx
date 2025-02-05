@@ -34,7 +34,7 @@ export default function DistanceCalculator() {
   return (
     <div className="max-w-2xl mx-auto p-6">
 <h1 className="text-4xl font-extrabold text-center text-blue-600 mt-8 mb-4">
-  Geolocation
+Next Geodistance
 </h1>
       <Card>
         <CardContent className="p-4 space-y-4">
@@ -59,6 +59,12 @@ export default function DistanceCalculator() {
           <Map coordsA={coordsA} coordsB={coordsB} />
         </div>
       )}
+      
+      
+      <p className="text-2l font-extrabold text-center text-green-200 mt-8 mb-4">
+&copy; 2025 Adrian Statescu
+</p>
+
     </div>
   );
 }
