@@ -1,4 +1,4 @@
-![Alt text](https://github.com/thinkphp/next-geolocation/blob/main/Screenshot%20from%202025-02-05%2022-13-55.png?raw=true)
+![Alt text](https://github.com/thinkphp/next-geodistance/blob/main/Screenshot%20from%202025-02-05%2023-20-53.png?raw=true)
 
 
 This is the frontend for the Geodistance Calculator app, built with Next.js and React. The app allows users to enter two locations and calculates the distance between them, displaying the result on a map.
